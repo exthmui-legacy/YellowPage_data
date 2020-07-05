@@ -1,5 +1,5 @@
-basic:
-  organization: 招商银行
-  cellPhone:
-    - 95555
-  url: http://www.cmbchina.com/
+name: 招商银行
+phone:
+  - {number: 95555, label: "" }
+website:
+  - {url: "http://www.cmbchina.com/", label: 官网}

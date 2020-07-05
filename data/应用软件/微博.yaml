@@ -1,5 +1,5 @@
-basic:
-  organization: 微博
-  cellPhone:
-    - 4000960960
-  url: https://www.weibo.com/
+name: 微博
+phone:
+  - {number: 4000960960, label: "" }
+website:
+  - {url: "https://www.weibo.com/", label: 官网}

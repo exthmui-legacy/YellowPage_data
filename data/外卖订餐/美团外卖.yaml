@@ -1,6 +1,6 @@
-basic:
-  organization: 美团外卖
-  cellPhone:
-    - 10109777
-    - 4008507777
-  url: https://waimai.meituan.com/
+name: 美团外卖
+phone:
+  - {number: 10109777, label: ""}
+  - {number: 4008507777, label: ""}
+website: 
+  - {url: "https://waimai.meituan.com/", label: 官网}

@@ -1,5 +1,5 @@
-basic:
-  organization: 支付宝
-  cellPhone:
-    - 95188
-  url: https://www.alipay.com/
+name: 支付宝
+phone:
+  - {number: 95188, label: "" }
+website:
+  - {url: "https://www.alipay.com/", label: 官网}

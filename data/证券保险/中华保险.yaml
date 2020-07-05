@@ -1,5 +1,5 @@
-basic:
-  organization: 中华保险
-  cellPhone:
-    - 95585
-  url: http://www.cic.cn/
+name: 中华保险
+phone:
+  - {number: 95585, label: "" }
+website:
+  - {url: "http://www.cic.cn/", label: 官网}

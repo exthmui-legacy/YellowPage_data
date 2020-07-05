@@ -1,5 +1,5 @@
-basic:
-  organization: 德邦快递
-  cellPhone:
-    - 95353
-  url: https://www.deppon.com/
+name: 德邦快递
+phone:
+  - {number: 95353, label: "" }
+website:
+  - {url: "https://www.deppon.com/", label: 官网}

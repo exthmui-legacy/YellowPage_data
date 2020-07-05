@@ -1,5 +1,5 @@
-basic:
-  organization: 光大银行
-  cellPhone:
-    - 95595
-  url: http://www.cebbank.com/
+name: 光大银行
+phone:
+  - {number: 95595, label: "" }
+website:
+  - {url: "http://www.cebbank.com/", label: 官网}

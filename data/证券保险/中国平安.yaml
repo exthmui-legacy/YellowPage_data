@@ -1,5 +1,5 @@
-basic:
-  organization: 中国平安
-  cellPhone:
-    - 95511
-  url: https://www.pingan.com/
+name: 中国平安
+phone:
+  - {number: 95511, label: "" }
+website:
+  - {url: "https://www.pingan.com/", label: 官网}

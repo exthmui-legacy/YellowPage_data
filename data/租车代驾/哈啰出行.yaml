@@ -1,6 +1,6 @@
-basic:
-  organization: 哈啰出行
-  cellPhone:
-    - 021-61679500
-    - 9521-8900
-  url: https://www.hellobike.com/
+name: 哈啰出行
+phone:
+  - {number: 02161679500, label: "" }
+  - {number: 95218900, label: "" }
+website:
+  - {url: "https://www.hellobike.com/", label: 官网}

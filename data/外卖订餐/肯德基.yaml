@@ -1,5 +1,5 @@
-basic:
-  organization: 肯德基
-  cellPhone:
-    - 4008823823
-  url: http://www.kfc.com.cn/
+name: 肯德基
+phone:
+  - {number: 4008823823, label: 宅急送}
+website: 
+  - {url: "http://www.kfc.com.cn/", label: 官网}

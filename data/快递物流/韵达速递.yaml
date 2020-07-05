@@ -1,5 +1,5 @@
-basic:
-  organization: 韵达速递
-  cellPhone:
-    - 95546
-  url: http://www.yundaex.com/
+name: 韵达速递
+phone:
+  - {number: 95546, label: "" }
+website:
+  - {url: "http://www.yundaex.com/", label: 官网}

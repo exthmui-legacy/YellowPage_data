@@ -1,5 +1,5 @@
-basic:
-  organization: 中国银联
-  cellPhone:
-    - 95516
-  url: https://cn.unionpay.com/
+name: 中国银联
+phone:
+  - {number: 95516, label: "" }
+website:
+  - {url: "https://cn.unionpay.com/", label: 官网}

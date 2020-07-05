@@ -1,5 +1,5 @@
-basic:
-  organization: 上海银行
-  cellPhone:
-    - 95594
-  url: http://www.bankofshanghai.com/
+name: 上海银行
+phone:
+  - {number: 95594, label: "" }
+website:
+  - {url: "http://www.bankofshanghai.com/", label: 官网}

@@ -1,6 +1,9 @@
-basic:
-  organization: 中国移动
-  cellPhone:
-    - 10086
-    - 1008611
-  url: http://www.10086.cn/
+name: 中国移动                                    # 企业、组织名称
+phone:                                           # 电话号码
+  - {number: 10086, label: 客服}
+  - {number: 1008611, label: 话费查询}
+address:                                         # 地址
+  - {data: 北京市西城区金融大街29号, label: 总部}
+website:                                         # 网站
+  - {url: "https://www.10086.cn/", label: 网上营业厅}
+  - {url: "https://jf.10086.cn/", label: 积分商城}

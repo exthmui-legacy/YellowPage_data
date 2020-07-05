@@ -1,5 +1,5 @@
-basic:
-  organization: Xbox
-  cellPhone:
-    - 4008866140
-  url: https://www.xbox.com/
+name: Xbox
+phone:
+  - {number: 4008866140, label: "" }
+website:
+  - {url: "https://www.xbox.com/", label: 官网}

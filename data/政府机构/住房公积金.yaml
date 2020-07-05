@@ -1,5 +1,5 @@
-basic:
-  organization: 住房公积金
-  cellPhone:
-    - 12329
-  url: http://www.mohurd.gov.cn/
+name: 住房公积金
+phone:
+  - {number: 12329, label: "" }
+website:
+  - {url: "http://www.mohurd.gov.cn/", label: 官网}

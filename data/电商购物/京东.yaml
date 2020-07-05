@@ -1,6 +1,6 @@
-basic:
-  organization: 京东
-  cellPhone:
-    - 95118
-    - 950618
-  url: https://www.jd.com/
+name: 京东
+phone:
+  - {number: 95118, label: "" }
+  - {number: 950618, label: "" }
+website:
+  - {url: "https://www.jd.com/", label: 官网}

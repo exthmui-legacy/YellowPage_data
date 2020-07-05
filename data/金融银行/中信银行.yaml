@@ -1,6 +1,6 @@
-basic:
-  organization: 中信银行
-  cellPhone:
-    - 95558
-    - 4008895558
-  url: http://www.citicbank.com/
+name: 中信银行
+phone:
+  - {number: 95558, label: "" }
+  - {number: 4008895558, label: "" }
+website:
+  - {url: "http://www.citicbank.com/", label: 官网}

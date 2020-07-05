@@ -1,7 +1,7 @@
-basic:
-  organization: 中国人保
-  cellPhone:
-    - 95591
-    - 95518
-    - 4008895518
-  url: http://www.picc.com/
+name: 中国人保
+phone:
+  - {number: 95591, label: "" }
+  - {number: 95518, label: "" }
+  - {number: 4008895518, label: "" }
+website:
+  - {url: "http://www.picc.com/", label: 官网}

@@ -1,5 +1,5 @@
-basic:
-  organization: 中国南方航空
-  cellPhone:
-    - 95539
-  url: https://www.csair.com/
+name: 中国南方航空
+phone:
+  - {number: 95539, label: "" }
+website:
+  - {url: "https://www.csair.com/", label: 官网}

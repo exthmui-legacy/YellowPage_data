@@ -1,6 +1,6 @@
-basic:
-  organization: 吉祥航空
-  cellPhone:
-    - 95520
-    - 400-700-6000
-  url: http://www.juneyaoair.com/
+name: 吉祥航空
+phone:
+  - {number: 95520, label: "" }
+  - {number: 4007006000, label: "" }
+website:
+  - {url: "http://www.juneyaoair.com/", label: 官网}

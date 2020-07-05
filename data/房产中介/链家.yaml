@@ -1,5 +1,5 @@
-basic:
-  organization: 链家
-  cellPhone:
-    - 10109666
-  url: https://www.lianjia.com/
+name: 链家
+phone:
+  - {number: 10109666, label: "" }
+website:
+  - {url: "https://www.lianjia.com/", label: 官网}

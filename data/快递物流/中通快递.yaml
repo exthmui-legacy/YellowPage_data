@@ -1,5 +1,5 @@
-basic:
-  organization: 中通快递
-  cellPhone:
-    - 95311
-  url: https://www.zto.com/
+name: 中通快递
+phone:
+  - {number: 95311, label: "" }
+website:
+  - {url: "https://www.zto.com/", label: 官网}

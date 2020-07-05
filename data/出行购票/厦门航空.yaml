@@ -1,5 +1,5 @@
-basic:
-  organization: 厦门航空
-  cellPhone:
-    - 95557
-  url: https://www.xiamenair.com/
+name: 厦门航空
+phone:
+  - {number: 95557, label: "" }
+website:
+  - {url: "https://www.xiamenair.com/", label: 官网}

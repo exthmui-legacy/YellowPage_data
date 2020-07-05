@@ -1,5 +1,5 @@
-basic:
-  organization: 极客时间
-  cellPhone:
-    - 010-53934972
-  url: https://time.geekbang.org/
+name: 极客时间
+phone:
+  - {number: 01053934972, label: "" }
+website:
+  - {url: "https://time.geekbang.org/", label: 官网}

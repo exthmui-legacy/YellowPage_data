@@ -1,6 +1,6 @@
-basic:
-  organization: PayPal
-  cellPhone:
-    - 4009211000
+name: PayPal
+phone:
+  - {number: 4009211000, label: "" }
     - +862128913888
-  url: https://www.paypal.com/
+website:
+  - {url: "https://www.paypal.com/", label: 官网}

@@ -1,5 +1,5 @@
-basic:
-  organization: 国家电网
-  cellPhone:
-    - 95598
-  url: http://www.sgcc.com.cn/
+name: 国家电网
+phone:
+  - {number: 95598, label: "" }
+website:
+  - {url: "http://www.sgcc.com.cn/", label: 官网}

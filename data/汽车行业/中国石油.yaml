@@ -1,5 +1,5 @@
-basic:
-  organization: 中国石油
-  cellPhone:
-    - 95504
-  url: http://www.cnpc.com.cn/
+name: 中国石油
+phone:
+  - {number: 95504, label: "" }
+website:
+  - {url: "http://www.cnpc.com.cn/", label: 官网}

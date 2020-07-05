@@ -1,5 +1,5 @@
-basic:
-  organization: 微信支付
-  cellPhone:
-    - 95017
-  url: https://pay.weixin.qq.com/
+name: 微信支付
+phone:
+  - {number: 95017, label: "" }
+website:
+  - {url: "https://pay.weixin.qq.com/", label: 官网}

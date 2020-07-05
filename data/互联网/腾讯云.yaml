@@ -1,5 +1,5 @@
-basic:
-  organization: 腾讯云
-  cellPhone:
-    - 4009-100-100,1
-  url: https://cloud.tencent.com/
+name: 腾讯云
+phone:
+  - {number: 4009100100, label: "" },1
+website:
+  - {url: "https://cloud.tencent.com/", label: 官网}

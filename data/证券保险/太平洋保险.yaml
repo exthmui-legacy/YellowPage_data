@@ -1,5 +1,5 @@
-basic:
-  organization: 太平洋保险
-  cellPhone:
-    - 95500
-  url: http://www.cpic.com.cn/
+name: 太平洋保险
+phone:
+  - {number: 95500, label: "" }
+website:
+  - {url: "http://www.cpic.com.cn/", label: 官网}

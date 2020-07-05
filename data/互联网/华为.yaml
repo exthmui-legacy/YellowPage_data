@@ -1,10 +1,10 @@
-basic:
-  organization: 华为
-  cellPhone:
-    - 4008308300
-    - 8008308300
-    - 4008229999
-    - 0755-28780808
-    - 0769-23280808
-    - 0755-22731198
-  url: https://www.huawei.com/cn/
+name: 华为
+phone:
+  - {number: 4008308300, label: "" }
+  - {number: 8008308300, label: "" }
+  - {number: 4008229999, label: "" }
+  - {number: 075528780808, label: "" }
+  - {number: 076923280808, label: "" }
+  - {number: 075522731198, label: "" }
+website:
+  - {url: "https://www.huawei.com/cn/", label: 官网}

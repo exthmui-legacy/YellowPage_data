@@ -1,5 +1,5 @@
-basic:
-  organization: 海南航空
-  cellPhone:
-    - 95339
-  url: https://www.hnair.com/
+name: 海南航空
+phone:
+  - {number: 95339, label: "" }
+website:
+  - {url: "https://www.hnair.com/", label: 官网}

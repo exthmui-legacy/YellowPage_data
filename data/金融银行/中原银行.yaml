@@ -1,5 +1,5 @@
-basic:
-  organization: 中原银行
-  cellPhone:
-    - 95186
-  url: http://www.zybank.com.cn/
+name: 中原银行
+phone:
+  - {number: 95186, label: "" }
+website:
+  - {url: "http://www.zybank.com.cn/", label: 官网}

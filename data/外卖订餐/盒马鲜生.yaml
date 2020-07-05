@@ -1,5 +1,5 @@
-basic:
-  organization: 盒马鲜生
-  cellPhone:
-    - 9510217
-  url: https://www.freshhema.com/
+name: 盒马鲜生
+phone:
+  - {number: 9510217, label: 客服}
+website: 
+  - {url: "https://www.freshhema.com/", label: 官网}

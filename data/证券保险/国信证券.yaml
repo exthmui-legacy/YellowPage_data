@@ -1,5 +1,5 @@
-basic:
-  organization: 国信证券
-  cellPhone:
-    - 95536
-  url: http://www.guosen.com.cn/
+name: 国信证券
+phone:
+  - {number: 95536, label: "" }
+website:
+  - {url: "http://www.guosen.com.cn/", label: 官网}

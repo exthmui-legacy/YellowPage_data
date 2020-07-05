@@ -1,5 +1,5 @@
-basic:
-  organization: 中国建设银行
-  cellPhone:
-    - 95533
-  url: http://www.ccb.com/
+name: 中国建设银行
+phone:
+  - {number: 95533, label: "" }
+website:
+  - {url: "http://www.ccb.com/", label: 官网}

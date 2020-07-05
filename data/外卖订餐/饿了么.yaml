@@ -1,5 +1,5 @@
-basic:
-  organization: 饿了么
-  cellPhone:
-    - 10105757
-  url: https://www.ele.me/
+name: 饿了么
+phone:
+  - {number: 10105757, label: 客服}
+website: 
+  - {url: "https://www.ele.me/", label: 官网}

@@ -1,5 +1,5 @@
-basic:
-  organization: 圆通速递
-  cellPhone:
-    - 95554
-  url: http://www.yto.net.cn/
+name: 圆通速递
+phone:
+  - {number: 95554, label: "" }
+website:
+  - {url: "http://www.yto.net.cn/", label: 官网}

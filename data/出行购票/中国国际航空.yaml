@@ -1,5 +1,5 @@
-basic:
-  organization: 中国国际航空
-  cellPhone:
-    - 95583
-  url: http://www.airchina.com.cn/
+name: 中国国际航空
+phone:
+  - {number: 95583, label: "" }
+website:
+  - {url: "http://www.airchina.com.cn/", label: 官网}

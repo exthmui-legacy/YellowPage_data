@@ -1,7 +1,7 @@
-basic:
-  organization: 淘宝
-  cellPhone:
-    - 9510211
-    - 4008608608
-    - 0571-88158198
-  url: https://www.taobao.com/
+name: 淘宝
+phone:
+  - {number: 9510211, label: "" }
+  - {number: 4008608608, label: "" }
+  - {number: 057188158198, label: "" }
+website:
+  - {url: "https://www.taobao.com/", label: 官网}

@@ -1,7 +1,7 @@
-basic:
-  organization: 云喇叭
-  cellPhone:
-    - 4008061257
-    - 028-65730878
-    - 028-966185
-  url: http://www.yunlaba.com/
+name: 云喇叭
+phone:
+  - {number: 4008061257, label: ""}
+  - {number: 02865730878, label: ""}
+  - {number: 028966185, label: ""}
+website: 
+  - {url: "http://www.yunlaba.com/", label: 官网}

@@ -1,6 +1,6 @@
-basic:
-  organization: 杭州银行
-  cellPhone:
-    - 95398
-    - 400-8888-508
-  url: http://www.hzbank.com.cn/
+name: 杭州银行
+phone:
+  - {number: 95398, label: "" }
+  - {number: 4008888508, label: "" }
+website:
+  - {url: "http://www.hzbank.com.cn/", label: 官网}

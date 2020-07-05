@@ -1,5 +1,5 @@
-basic:
-  organization: 山东航空
-  cellPhone:
-    - 95369
-  url: http://www.sda.cn/
+name: 山东航空
+phone:
+  - {number: 95369, label: "" }
+website:
+  - {url: "http://www.sda.cn/", label: 官网}

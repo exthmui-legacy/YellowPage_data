@@ -1,5 +1,5 @@
-basic:
-  organization: 中国银行
-  cellPhone:
-    - 95566
-  url: http://www.boc.cn/
+name: 中国银行
+phone:
+  - {number: 95566, label: "" }
+website:
+  - {url: "http://www.boc.cn/", label: 官网}

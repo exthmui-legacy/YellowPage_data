@@ -1,5 +1,5 @@
-basic:
-  organization: 中国铁路
-  cellPhone:
-    - 12306
-  url: https://www.12306.cn/
+name: 中国铁路
+phone:
+  - {number: 12306, label: "" }
+website:
+  - {url: "https://www.12306.cn/", label: 官网}

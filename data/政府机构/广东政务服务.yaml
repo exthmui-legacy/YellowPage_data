@@ -1,5 +1,5 @@
-basic:
-  organization: 广东政务服务
-  cellPhone:
-    - 020-83134264
-  url: https://www.gdzwfw.gov.cn/
+name: 广东政务服务
+phone:
+  - {number: 02083134264, label: "" }
+website:
+  - {url: "https://www.gdzwfw.gov.cn/", label: 官网}

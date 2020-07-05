@@ -1,6 +1,6 @@
-basic:
-  organization: 广发银行
-  cellPhone:
-    - 95508
-    - 4008308003
-  url: http://www.cgbchina.com.cn/
+name: 广发银行
+phone:
+  - {number: 95508, label: "" }
+  - {number: 4008308003, label: "" }
+website:
+  - {url: "http://www.cgbchina.com.cn/", label: 官网}

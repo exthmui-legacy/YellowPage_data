@@ -1,5 +1,5 @@
-basic:
-  organization: 阿里云
-  cellPhone:
-    - 95187
-  url: https://www.aliyun.com/
+name: 阿里云
+phone:
+  - {number: 95187, label: "" }
+website:
+  - {url: "https://www.aliyun.com/", label: 官网}

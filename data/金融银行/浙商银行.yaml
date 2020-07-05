@@ -1,5 +1,5 @@
-basic:
-  organization: 浙商银行
-  cellPhone:
-    - 95527
-  url: http://www.czbank.com/
+name: 浙商银行
+phone:
+  - {number: 95527, label: "" }
+website:
+  - {url: "http://www.czbank.com/", label: 官网}

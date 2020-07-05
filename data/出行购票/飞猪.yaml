@@ -1,5 +1,5 @@
-basic:
-  organization: 飞猪
-  cellPhone:
-    - 9510208
-  url: https://www.fliggy.com
+name: 飞猪
+phone:
+  - {number: 9510208, label: "" }
+website:
+  - {url: "https://www.fliggy.com", label: 官网}

@@ -1,5 +1,5 @@
-basic:
-  organization: 网易考拉
-  cellPhone:
-    - 95163111
-  url: https://www.kaola.com/
+name: 网易考拉
+phone:
+  - {number: 95163111, label: "" }
+website:
+  - {url: "https://www.kaola.com/", label: 官网}

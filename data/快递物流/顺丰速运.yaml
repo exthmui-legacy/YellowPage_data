@@ -1,5 +1,5 @@
-basic:
-  organization: 顺丰速运
-  cellPhone:
-    - 95338
-  url: http://www.sf-express.com/
+name: 顺丰速运
+phone:
+  - {number: 95338, label: "" }
+website:
+  - {url: "http://www.sf-express.com/", label: 官网}

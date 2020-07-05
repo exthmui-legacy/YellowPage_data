@@ -1,6 +1,6 @@
-basic:
-  organization: 渤海银行
-  cellPhone:
-    - 95541
-    - 4008888811
-  url: http://www.cbhb.com.cn/
+name: 渤海银行
+phone:
+  - {number: 95541, label: "" }
+  - {number: 4008888811, label: "" }
+website:
+  - {url: "http://www.cbhb.com.cn/", label: 官网}

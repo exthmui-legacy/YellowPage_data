@@ -1,5 +1,5 @@
-basic:
-  organization: 平安银行
-  cellPhone:
-    - 95511;3
-  url: http://bank.pingan.com/
+name: 平安银行
+phone:
+  - {number: 95511, label: "" };3
+website:
+  - {url: "http://bank.pingan.com/", label: 官网}
