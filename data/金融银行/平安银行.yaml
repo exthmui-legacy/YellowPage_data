@@ -1,5 +1,5 @@
 name: 平安银行
 phone:
-  - {number: 95511, label: "" };3
+  - {number: 95511, label: "" }
 website:
   - {url: "http://bank.pingan.com/", label: 官网}
