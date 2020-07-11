@@ -1,5 +1,5 @@
 name: 飞猪
 phone:
-  - {number: 9510208, label: "" }
+  - {number: "9510208", label: "" }
 website:
   - {url: "https://www.fliggy.com", label: 官网}

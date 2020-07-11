@@ -1,5 +1,5 @@
 name: 必要
 phone:
-  - {number: 07563635580, label: "" }
+  - {number: "07563635580", label: "" }
 website:
   - {url: "http://www.biyao.com", label: 官网}

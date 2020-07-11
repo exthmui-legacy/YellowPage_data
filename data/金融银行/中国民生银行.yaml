@@ -1,6 +1,6 @@
 name: 中国民生银行
 phone:
-  - {number: 95568, label: "" }
+  - {number: "95568", label: "" }
 website:
   - {url: "http://www.cmbc.com.cn/", label: 官网}
   

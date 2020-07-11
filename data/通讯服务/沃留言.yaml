@@ -1,5 +1,5 @@
 name: 沃留言
 phone:
-  - {number: 10165, label: 总机}
+  - {number: "10165", label: 总机}
 website: 
   - {url: "https://wly.mail.wo.cn/", label: 官网}

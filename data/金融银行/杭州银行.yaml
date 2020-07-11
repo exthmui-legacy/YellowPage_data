@@ -1,6 +1,6 @@
 name: 杭州银行
 phone:
-  - {number: 95398, label: "" }
-  - {number: 4008888508, label: "" }
+  - {number: "95398", label: "" }
+  - {number: "4008888508", label: "" }
 website:
   - {url: "http://www.hzbank.com.cn/", label: 官网}

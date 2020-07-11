@@ -1,5 +1,5 @@
 name: 星巴克
 phone:
-  - {number: 4008206998, label: ""}
+  - {number: "4008206998", label: ""}
 website: 
   - {url: "https://www.starbucks.com.cn/", label: 官网}

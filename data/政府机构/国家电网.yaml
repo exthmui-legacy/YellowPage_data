@@ -1,5 +1,5 @@
 name: 国家电网
 phone:
-  - {number: 95598, label: "" }
+  - {number: "95598", label: "" }
 website:
   - {url: "http://www.sgcc.com.cn/", label: 官网}

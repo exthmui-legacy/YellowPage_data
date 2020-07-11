@@ -1,5 +1,5 @@
 name: 沃钱包
 phone:
-  - {number: 10188, label: "" }
+  - {number: "10188", label: "" }
 website:
   - {url: "https://epay.10010.com/", label: 官网}

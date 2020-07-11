@@ -1,8 +1,8 @@
 name: 苏宁易购
 phone:
-  - {number: 95177, label: "" }
-  - {number: 10035, label: "" }
-  - {number: 4008916916, label: "" }
-  - {number: 4000199166, label: "" }
+  - {number: "95177", label: "" }
+  - {number: "10035", label: "" }
+  - {number: "4008916916", label: "" }
+  - {number: "4000199166", label: "" }
 website:
   - {url: "https://www.suning.com/", label: 官网}

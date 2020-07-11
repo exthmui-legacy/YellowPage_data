@@ -1,5 +1,5 @@
 name: 知乎
 phone:
-  - {number: 01061190680, label: "" }
+  - {number: "01061190680", label: "" }
 website:
   - {url: "https://www.zhihu.com/", label: 官网}

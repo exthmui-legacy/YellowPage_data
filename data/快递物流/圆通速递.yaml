@@ -1,5 +1,5 @@
 name: 圆通速递
 phone:
-  - {number: 95554, label: "" }
+  - {number: "95554", label: "" }
 website:
   - {url: "http://www.yto.net.cn/", label: 官网}

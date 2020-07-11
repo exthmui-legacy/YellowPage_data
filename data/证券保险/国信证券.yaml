@@ -1,5 +1,5 @@
 name: 国信证券
 phone:
-  - {number: 95536, label: "" }
+  - {number: "95536", label: "" }
 website:
   - {url: "http://www.guosen.com.cn/", label: 官网}

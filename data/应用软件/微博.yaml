@@ -1,5 +1,5 @@
 name: 微博
 phone:
-  - {number: 4000960960, label: "" }
+  - {number: "4000960960", label: "" }
 website:
   - {url: "https://www.weibo.com/", label: 官网}

@@ -1,5 +1,5 @@
 name: DHL
 phone:
-  - {number: 95380, label: "" }
+  - {number: "95380", label: "" }
 website:
   - {url: "https://www.logistics.dhl/cn-zh/home.html", label: 官网}

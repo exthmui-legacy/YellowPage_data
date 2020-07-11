@@ -1,10 +1,10 @@
 name: 腾讯
 phone:
-  - {number: 075583765566, label: "" }
-  - {number: 075586013388, label: "" }
-  - {number: 01062671188, label: "" }
-  - {number: 02154569595, label: "" }
-  - {number: 02885225111, label: "" }
-  - {number: 02081167888, label: "" }
+  - {number: "075583765566", label: "" }
+  - {number: "075586013388", label: "" }
+  - {number: "01062671188", label: "" }
+  - {number: "02154569595", label: "" }
+  - {number: "02885225111", label: "" }
+  - {number: "02081167888", label: "" }
 website:
   - {url: "https://www.tencent.com/", label: 官网}

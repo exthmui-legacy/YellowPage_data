@@ -1,6 +1,6 @@
 name: 广发银行
 phone:
-  - {number: 95508, label: "" }
-  - {number: 4008308003, label: "" }
+  - {number: "95508", label: "" }
+  - {number: "4008308003", label: "" }
 website:
   - {url: "http://www.cgbchina.com.cn/", label: 官网}

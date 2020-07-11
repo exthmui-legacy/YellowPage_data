@@ -1,5 +1,5 @@
 name: 交通银行
 phone:
-  - {number: 95559, label: "" }
+  - {number: "95559", label: "" }
 website:
   - {url: "http://www.bankcomm.com/", label: 官网}

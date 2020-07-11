@@ -1,7 +1,7 @@
 name: Apple
 phone:
-  - {number: 4006668800, label: "" }
-  - {number: 4006272273, label: "" }
-  - {number: 4006198141, label: "" }
+  - {number: "4006668800", label: "" }
+  - {number: "4006272273", label: "" }
+  - {number: "4006198141", label: "" }
 website:
   - {url: "https://apple.com/cn/", label: 官网}

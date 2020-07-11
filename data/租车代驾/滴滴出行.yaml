@@ -1,7 +1,7 @@
 name: 滴滴出行
 phone:
-  - {number: 4000000999, label: "" }
-  - {number: 4000000666, label: "" }
-  - {number: 4007666998, label: "" }
+  - {number: "4000000999", label: "" }
+  - {number: "4000000666", label: "" }
+  - {number: "4007666998", label: "" }
 website:
   - {url: "https://www.didiglobal.com/", label: 官网}

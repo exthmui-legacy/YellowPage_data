@@ -1,5 +1,5 @@
 name: 中国银行
 phone:
-  - {number: 95566, label: "" }
+  - {number: "95566", label: "" }
 website:
   - {url: "http://www.boc.cn/", label: 官网}

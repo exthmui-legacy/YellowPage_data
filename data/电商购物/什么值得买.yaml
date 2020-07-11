@@ -1,5 +1,5 @@
 name: 什么值得买
 phone:
-  - {number: 01056640700, label: "" }
+  - {number: "01056640700", label: "" }
 website:
   - {url: "https://www.smzdm.com/", label: 官网}

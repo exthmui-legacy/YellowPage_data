@@ -1,6 +1,6 @@
 name: 中国电信
 phone:
-  - {number: 10000, label: 客服}
-  - {number: 10001, label: 自助服务}
+  - {number: "10000", label: 客服}
+  - {number: "10001", label: 自助服务}
 website: 
   - {url: "https://www.189.cn/", label: 网上营业厅}

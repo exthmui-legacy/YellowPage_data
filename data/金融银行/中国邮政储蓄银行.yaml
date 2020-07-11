@@ -1,6 +1,6 @@
 name: 中国邮政储蓄银行
 phone:
-  - {number: 95580, label: "" }
-  - {number: 400885580, label: "" }
+  - {number: "95580", label: "" }
+  - {number: "400885580", label: "" }
 website:
   - {url: "http://www.psbc.com/cn/", label: 官网}

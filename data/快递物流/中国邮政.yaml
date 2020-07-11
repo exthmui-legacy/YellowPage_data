@@ -1,5 +1,5 @@
 name: 中国邮政
 phone:
-  - {number: 11183, label: "" }
+  - {number: "11183", label: "" }
 website:
   - {url: "http://www.chinapost.com.cn/", label: 官网}

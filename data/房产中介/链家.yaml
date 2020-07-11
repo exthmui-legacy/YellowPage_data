@@ -1,5 +1,5 @@
 name: 链家
 phone:
-  - {number: 10109666, label: "" }
+  - {number: "10109666", label: "" }
 website:
   - {url: "https://www.lianjia.com/", label: 官网}

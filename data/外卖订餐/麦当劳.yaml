@@ -1,5 +1,5 @@
 name: 麦当劳
 phone:
-  - {number: 4008517517, label: 订餐电话}
+  - {number: "4008517517", label: 订餐电话}
 website: 
   - {url: "https://www.mcdonalds.com.cn/", label: 官网}

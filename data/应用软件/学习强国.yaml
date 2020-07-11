@@ -1,5 +1,5 @@
 name: 学习强国
 phone:
-  - {number: 12361, label: "" }
+  - {number: "12361", label: "" }
 website:
   - {url: "https://www.xuexi.cn/", label: 官网}

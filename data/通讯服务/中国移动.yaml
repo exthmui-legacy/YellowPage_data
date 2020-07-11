@@ -1,7 +1,7 @@
 name: 中国移动                                    # 企业、组织名称
 phone:                                           # 电话号码
-  - {number: 10086, label: 客服}
-  - {number: 1008611, label: 话费查询}
+  - {number: "10086", label: 客服}
+  - {number: "1008611", label: 话费查询}
 address:                                         # 地址
   - {data: 北京市西城区金融大街29号, label: 总部}
 website:                                         # 网站

@@ -1,5 +1,5 @@
 name: 自如
 phone:
-  - {number: 4001001111, label: "" }
+  - {number: "4001001111", label: "" }
 website:
   - {url: "http://www.ziroom.com/", label: 官网}

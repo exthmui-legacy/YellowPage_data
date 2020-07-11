@@ -1,5 +1,5 @@
 name: 必胜客
 phone:
-  - {number: 4008123123, label: 订餐电话}
+  - {number: "4008123123", label: 订餐电话}
 website: 
   - {url: "http://www.pizzahut.com.cn/", label: 官网}

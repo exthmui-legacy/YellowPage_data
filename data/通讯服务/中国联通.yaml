@@ -1,7 +1,7 @@
 name: 中国联通
 phone:
-  - {number: 10010, label: 客服}
-  - {number: 10011, label: 充值服务热线}
-  - {number: 10016, label: 营销热线}
+  - {number: "10010", label: 客服}
+  - {number: "10011", label: 充值服务热线}
+  - {number: "10016", label: 营销热线}
 website: 
   - {url: "http://www.10010.com/", label: 网上营业厅}

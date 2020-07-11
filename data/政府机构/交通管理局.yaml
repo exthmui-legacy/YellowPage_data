@@ -1,5 +1,5 @@
 name: 交通管理局
 phone:
-  - {number: 12123, label: "" }
+  - {number: "12123", label: "" }
 website:
   - {url: "https://www.122.gov.cn/", label: 官网}

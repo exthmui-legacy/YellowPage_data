@@ -1,5 +1,5 @@
 name: 盒马鲜生
 phone:
-  - {number: 9510217, label: 客服}
+  - {number: "9510217", label: 客服}
 website: 
   - {url: "https://www.freshhema.com/", label: 官网}

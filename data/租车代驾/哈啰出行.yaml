@@ -1,6 +1,6 @@
 name: 哈啰出行
 phone:
-  - {number: 02161679500, label: "" }
-  - {number: 95218900, label: "" }
+  - {number: "02161679500", label: "" }
+  - {number: "95218900", label: "" }
 website:
   - {url: "https://www.hellobike.com/", label: 官网}

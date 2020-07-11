@@ -1,6 +1,6 @@
 name: 工业和信息化部
 phone:
-  - {number: 12381, label: "" }
-  - {number: 01012300, label: "" }
+  - {number: "12381", label: "" }
+  - {number: "01012300", label: "" }
 website:
   - {url: "http://www.miit.gov.cn/", label: 官网}

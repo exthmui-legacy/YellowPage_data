@@ -1,5 +1,5 @@
 name: 富途证券
 phone:
-  - {number: 4008701818, label: "" }
+  - {number: "4008701818", label: "" }
 website:
   - {url: "https://www.futu5.com/", label: 官网}

@@ -1,6 +1,6 @@
 name: 中信银行
 phone:
-  - {number: 95558, label: "" }
-  - {number: 4008895558, label: "" }
+  - {number: "95558", label: "" }
+  - {number: "4008895558", label: "" }
 website:
   - {url: "http://www.citicbank.com/", label: 官网}

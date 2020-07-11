@@ -1,5 +1,5 @@
 name: 太平洋保险
 phone:
-  - {number: 95500, label: "" }
+  - {number: "95500", label: "" }
 website:
   - {url: "http://www.cpic.com.cn/", label: 官网}

@@ -1,7 +1,7 @@
 name: 淘宝
 phone:
-  - {number: 9510211, label: "" }
-  - {number: 4008608608, label: "" }
-  - {number: 057188158198, label: "" }
+  - {number: "9510211", label: "" }
+  - {number: "4008608608", label: "" }
+  - {number: "057188158198", label: "" }
 website:
   - {url: "https://www.taobao.com/", label: 官网}

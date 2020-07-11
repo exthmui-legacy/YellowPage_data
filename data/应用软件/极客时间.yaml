@@ -1,5 +1,5 @@
 name: 极客时间
 phone:
-  - {number: 01053934972, label: "" }
+  - {number: "01053934972", label: "" }
 website:
   - {url: "https://time.geekbang.org/", label: 官网}

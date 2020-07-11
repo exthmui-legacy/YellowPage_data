@@ -1,5 +1,5 @@
 name: 云闪付
 phone:
-  - {number: 95516, label: "" }
+  - {number: "95516", label: "" }
 website:
   - {url: "https://yunshanfu.unionpay.com", label: 官网}

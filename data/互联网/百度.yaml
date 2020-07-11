@@ -1,6 +1,6 @@
 name: 百度
 phone:
-  - {number: 01059928888, label: "" }
-  - {number: 4008008888, label: "" }
+  - {number: "01059928888", label: "" }
+  - {number: "4008008888", label: "" }
 website:
   - {url: "https://www.baidu.com/", label: 官网}

@@ -1,5 +1,5 @@
 name: 住房公积金
 phone:
-  - {number: 12329, label: "" }
+  - {number: "12329", label: "" }
 website:
   - {url: "http://www.mohurd.gov.cn/", label: 官网}

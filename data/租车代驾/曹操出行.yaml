@@ -1,5 +1,5 @@
 name: 曹操出行
 phone:
-  - {number: 4006081111, label: "" }
+  - {number: "4006081111", label: "" }
 website:
   - {url: "https://www.caocaokeji.cn/", label: 官网}

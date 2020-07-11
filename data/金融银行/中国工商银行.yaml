@@ -1,5 +1,5 @@
 name: 中国工商银行
 phone:
-  - {number: 95588, label: "" }
+  - {number: "95588", label: "" }
 website:
   - {url: "http://www.icbc.com.cn/", label: 官网}

@@ -1,5 +1,5 @@
 name: 爱奇艺
 phone:
-  - {number: 4009237171, label: "" }
+  - {number: "4009237171", label: "" }
 website:
   - {url: "https://www.iqiyi.com/", label: 官网}

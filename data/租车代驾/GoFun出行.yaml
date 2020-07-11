@@ -1,5 +1,5 @@
 name: GoFun出行
 phone:
-  - {number: 4000190808, label: "" }
+  - {number: "4000190808", label: "" }
 website:
   - {url: "https://www.shouqiev.com/", label: 官网}

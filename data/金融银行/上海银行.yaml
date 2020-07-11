@@ -1,5 +1,5 @@
 name: 上海银行
 phone:
-  - {number: 95594, label: "" }
+  - {number: "95594", label: "" }
 website:
   - {url: "http://www.bankofshanghai.com/", label: 官网}

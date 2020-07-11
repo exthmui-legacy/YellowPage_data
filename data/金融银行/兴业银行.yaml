@@ -1,6 +1,6 @@
 name: 兴业银行
 phone:
-  - {number: 95561, label: "" }
-  - {number: 4008895561, label: "" }
+  - {number: "95561", label: "" }
+  - {number: "4008895561", label: "" }
 website:
   - {url: "https://www.cib.com.cn/", label: 官网}

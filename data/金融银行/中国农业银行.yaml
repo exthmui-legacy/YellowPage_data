@@ -1,5 +1,5 @@
 name: 中国农业银行
 phone:
-  - {number: 95599, label: "" }
+  - {number: "95599", label: "" }
 website:
   - {url: "http://www.abchina.com/", label: 官网}

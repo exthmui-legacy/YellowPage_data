@@ -1,5 +1,5 @@
 name: 中国太平
 phone:
-  - {number: 95589, label: "" }
+  - {number: "95589", label: "" }
 website:
   - {url: "http://www.cntaiping.com/", label: 官网}

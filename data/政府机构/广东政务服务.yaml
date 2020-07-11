@@ -1,5 +1,5 @@
 name: 广东政务服务
 phone:
-  - {number: 02083134264, label: "" }
+  - {number: "02083134264", label: "" }
 website:
   - {url: "https://www.gdzwfw.gov.cn/", label: 官网}

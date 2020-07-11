@@ -1,13 +1,13 @@
 name: 网易
 phone:
-  - {number: 01082558163, label: "" }
-  - {number: 02161947163, label: "" }
-  - {number: 02085105163, label: "" }
-  - {number: 057189852163, label: "" }
-  - {number: 95163234, label: "" }
-  - {number: 95163000, label: "" }
-  - {number: 95163555, label: "" }
-  - {number: 95163999, label: "" }
-  - {number: 95163777, label: "" }
+  - {number: "01082558163", label: "" }
+  - {number: "02161947163", label: "" }
+  - {number: "02085105163", label: "" }
+  - {number: "057189852163", label: "" }
+  - {number: "95163234", label: "" }
+  - {number: "95163000", label: "" }
+  - {number: "95163555", label: "" }
+  - {number: "95163999", label: "" }
+  - {number: "95163777", label: "" }
 website:
   - {url: "https://www.163.com/", label: 官网}

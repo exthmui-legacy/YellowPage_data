@@ -1,5 +1,5 @@
 name: 广州农村商业银行
 phone:
-  - {number: 95313, label: "" }
+  - {number: "95313", label: "" }
 website:
   - {url: "http://www.grcbank.com/", label: 官网}

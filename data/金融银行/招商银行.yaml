@@ -1,5 +1,5 @@
 name: 招商银行
 phone:
-  - {number: 95555, label: "" }
+  - {number: "95555", label: "" }
 website:
   - {url: "http://www.cmbchina.com/", label: 官网}

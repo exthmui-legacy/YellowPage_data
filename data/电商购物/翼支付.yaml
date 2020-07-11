@@ -1,5 +1,5 @@
 name: 翼支付
 phone:
-  - {number: 11888, label: "" }
+  - {number: "11888", label: "" }
 website:
   - {url: "https://www.bestpay.com.cn/", label: 官网}

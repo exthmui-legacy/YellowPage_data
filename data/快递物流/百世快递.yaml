@@ -1,5 +1,5 @@
 name: 百世快递
 phone:
-  - {number: 95320, label: "" }
+  - {number: "95320", label: "" }
 website:
   - {url: "http://800bestex.com/", label: 官网}

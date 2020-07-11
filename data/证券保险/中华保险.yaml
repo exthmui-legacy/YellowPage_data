@@ -1,5 +1,5 @@
 name: 中华保险
 phone:
-  - {number: 95585, label: "" }
+  - {number: "95585", label: "" }
 website:
   - {url: "http://www.cic.cn/", label: 官网}

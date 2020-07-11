@@ -1,6 +1,6 @@
 name: PayPal
 phone:
-  - {number: 4009211000, label: "" }
-  - {number: 2128913888, label: "" }
+  - {number: "4009211000", label: "" }
+  - {number: "2128913888", label: "" }
 website:
   - {url: "https://www.paypal.com/", label: 官网}

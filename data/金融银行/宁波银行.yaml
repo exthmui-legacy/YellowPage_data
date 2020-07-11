@@ -1,5 +1,5 @@
 name: 宁波银行
 phone:
-  - {number: 95574, label: "" }
+  - {number: "95574", label: "" }
 website:
   - {url: "http://www.nbcb.com.cn/", label: 官网}

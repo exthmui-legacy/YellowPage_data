@@ -1,5 +1,5 @@
 name: 中国建设银行
 phone:
-  - {number: 95533, label: "" }
+  - {number: "95533", label: "" }
 website:
   - {url: "http://www.ccb.com/", label: 官网}

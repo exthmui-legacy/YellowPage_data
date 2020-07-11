@@ -1,5 +1,5 @@
 name: 中国人寿
 phone:
-  - {number: 95519, label: "" }
+  - {number: "95519", label: "" }
 website:
   - {url: "https://www.chinalife.com.cn/", label: 官网}

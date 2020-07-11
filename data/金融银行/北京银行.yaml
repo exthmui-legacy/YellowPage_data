@@ -1,6 +1,6 @@
 name: 北京银行
 phone:
-  - {number: 95526, label: "" }
-  - {number: 4006601169, label: "" }
+  - {number: "95526", label: "" }
+  - {number: "4006601169", label: "" }
 website:
   - {url: "http://www.bankofbeijing.com.cn/", label: 官网}
