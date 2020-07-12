@@ -21,7 +21,7 @@ const plugin = (file, _, cb) => {
 
     YPData.avatar = avatarServer + "/" + path.replace(".yaml", ".png").substring(path.lastIndexOf("/", path.lastIndexOf("/") - 1) + 1);
     const contents = {
-        version: Date.now(),
+        version: Math.ceil(Date.now() / 1000),
         status: 0,
         data: [
             YPData

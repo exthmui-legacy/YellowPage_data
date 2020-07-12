@@ -24,7 +24,7 @@ module.exports = function (file, opt) {
     let fileName;
     let concat;
     let result = {
-        version: Date.now(),
+        version: Math.ceil(Date.now() / 1000),
         status: 0,
         data: []
     };
