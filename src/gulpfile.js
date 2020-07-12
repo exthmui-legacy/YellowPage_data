@@ -8,6 +8,7 @@ const concat = require("./concat");
 const concatFolders = require("./concat-folder");
 
 const plugin_yellowPageData = require("./plugins/yellowpagedata");
+const plugin_post = require("./plugins/post");
 
 const generator = () => {
     return src("data/*/*.yaml")
@@ -27,12 +28,16 @@ const allInOne = () => {
     return src("out/汇总/*.all.json")
         .pipe(concat("全部.json"))
         .pipe(dest("./out"));
-}
+};
+
+const post = (cb) => {
+    plugin_post("out/全部.json", cb);
+};
 
 const test = () => {
     return src("./src/test.js")
         .pipe(ava({verbose: true}));
-}
+};
 
 const clean = () => {
     return del([
