@@ -1,0 +1,6 @@
+name: 阿里巴巴
+phone:
+  - {number: "4001666888", label: "" }
+  - {number: "95018", label: "" }
+website:
+  - {url: "https://www.oppo.com/cn/", label: 官网}
