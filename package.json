@@ -4,7 +4,7 @@
   "scripts": {
     "gulp": "gulp --gulpfile src/gulpfile.js --cwd ./",
     "build": "npm run gulp build",
-    "post": "npm run gulp post",
+    "update": "npm run gulp update",
     "test": "npm run gulp test"
   },
   "keywords": [],
