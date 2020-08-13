@@ -1,9 +1,10 @@
 {
   "avatar_server": "https://raw.githubusercontent.com/exthmui/YellowPage_data/master/data",
   "post": {
+    "protocol": "https",
     "host": "localhost",
-    "port": 5000,
+    "port": 443,
     "path": "/yellowpage/v1.0/data",
-    "token": "{write_your_token_here"
+    "token": "{write_your_token_here}"
   }
 }
