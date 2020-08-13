@@ -22,9 +22,9 @@ module.exports = async (path, cb) => {
 
     const req = protocol.request(options, function (res) {
         res.setEncoding("utf8");
+        cb();
     });
 
     req.write(contents);
     req.end();
-    await cb();
 };
