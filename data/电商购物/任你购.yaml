@@ -1,0 +1,5 @@
+name: 任你购
+phone:
+  - {number: "+81362317628", label: "" }
+website:
+  - {url: "https://rennigou.jp", label: 官网}
