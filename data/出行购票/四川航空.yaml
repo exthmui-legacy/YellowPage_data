@@ -1,0 +1,5 @@
+name: 四川航空
+phone:
+  - {number: "95378", label: "" }
+website:
+  - {url: "https://www.sichuanair.com", label: 官网}
