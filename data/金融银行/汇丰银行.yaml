@@ -1,0 +1,5 @@
+name: 汇丰银行
+phone:
+  - {number: "95366", label: "" }
+website:
+  - {url: "https://www.hsbc.com.cn", label: 官网}
