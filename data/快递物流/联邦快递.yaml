@@ -1,0 +1,5 @@
+name: 联邦快递
+phone:
+  - {number: "4008861888", label: "" }
+website:
+  - {url: "https://www.fedex.com", label: 官网}
