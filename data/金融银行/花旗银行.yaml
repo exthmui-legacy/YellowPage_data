@@ -1,0 +1,5 @@
+name: 花旗银行
+phone:
+  - {number: "4008211880", label: "" }
+website:
+  - {url: "https://www.citibank.com.cn", label: 官网}
